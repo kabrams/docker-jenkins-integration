@@ -4,6 +4,9 @@
     <groupId>com.javatechie</groupId>
     <artifactId>mavenproject1</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <build>
+        <finalName>docker-jenkins-integration</finalName>
+    </build>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
