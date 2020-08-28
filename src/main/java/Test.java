@@ -13,6 +13,7 @@ public class Test {
     public static void main(String[] args){
         System.out.println("Hello World! This is only the beginning! Get ready!");
         System.out.println("Welcome!");
+        System.out.println("testing out new jenkins config");
     }
     
 }
